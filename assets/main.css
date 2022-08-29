@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Cyberverse";
+    src: url("font/Cyberverse\ Bold.otf");
+    font-weight: 700;
+}
+
+*{
+    background-color: rgb(193, 193, 190);
+    box-sizing: border-box;
+}
+
+#numbers{
+    color: rgb(248, 179, 231);
+    font-size: 200px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    font-family: "Cyberverse" ;
+}
